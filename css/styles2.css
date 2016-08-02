@@ -1,0 +1,23 @@
+h1 {
+  text-align:center;
+  color:#0099ff;
+  text-decoration: underline;
+}
+
+p {
+  font-size: x-large;
+}
+
+ol {
+  font-size: large;
+  line-height: 30px;
+}
+
+img {
+  display:block;
+  margin:auto;
+}
+
+body {
+  background-color:#ffff99;
+}
