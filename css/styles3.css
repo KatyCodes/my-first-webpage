@@ -1,5 +1,4 @@
 h1 {
-  color: #3366ff;
   text-decoration: underline;
   font-size: 300%;
   text-align: center;
@@ -13,16 +12,29 @@ h2 {
 
 img {
   display: block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
-  background-color: #ffff99;
   font-family: sans-serif;
-  padding: 0 10px;
+  padding: 10px;
+  text-align: center;
 }
 
 li {
   font-size: large;
   line-height: 30px;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+a:visited , a {
+  color: black;
+}
+
+html {
+  background-image: url('../img/background.jpg');
 }

@@ -1,29 +1,31 @@
-# My First Webpage
+# Private Island Resort Website
+Version 0.0.1: August 2, 2016
+by [Katy Henning](https://katycodes.github.io/portfolio) and Aimen Khakwani
 
-#### A basic HTML webpage, August 1, 2016
-
-####  By Aimen Khakwani and Katy Henning
+### Technologies Used
+CSS HTML
 
 ## Description
+* Basic page listing a few of a our favorite things. A basic practice of HTML and CSS.
 
-This is a basic webpage that was designed with learning in mind. Hopefully we will make better pages soon.
+## Setup/Installation
 
-## Setup/Installation Requirements
+* Clone to desktop and open in browser.
 
-* None other than a computer with a browser
+## Support & Contact
+For questions, concerns, or suggestions please email katyannhenning@gmail.com
 
-##Known Bugs
+## Specifications
+* Short list of favorite things.
 
-None
+## To Do List
+* Finish design
 
-## Support and contact details
+## Known Issues
+* None
 
-800-Ghostbusters
+## Legal
+* This software is licensed under the MIT license.
 
-## Technologies Used
 
-Nothing to write home about.
-
-### License
-
-Copyright (c) 2016 **Aimen Khakwani and Katy Henning**
+Copyright (c) 2016 Copyright _[Katy Henning](https://katycodes.github.io/portfolio)_  and Aimen Khakwani All Rights Reserved.
